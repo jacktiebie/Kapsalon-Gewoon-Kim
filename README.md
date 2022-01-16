@@ -11,6 +11,6 @@ Design:
 Add later
 
 Made by Jack Tiebie
-Linkedin: https://www.linkedin.com/in/jack-tiebie-62869221b/
-Youtube: https://www.youtube.com/channel/UCiVkz0i3iXvrZMKx3fqmblQ
+Linkedin: https://www.linkedin.com/in/jack-tiebie-62869221b/ </br>
+Youtube: https://www.youtube.com/channel/UCiVkz0i3iXvrZMKx3fqmblQ  </br>
 Discord: JackTiebie#9672
