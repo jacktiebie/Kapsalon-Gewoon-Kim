@@ -11,6 +11,10 @@ the repository: Kapsalon-Gewoon-Kim-NL  </br>
 Add later   </br>
 
 <b>Made by Jack Tiebie</b>  </br>
-Linkedin: https://www.linkedin.com/in/jack-tiebie-62869221b/ </br>
-Youtube: https://www.youtube.com/channel/UCiVkz0i3iXvrZMKx3fqmblQ  </br>
+LinkedIn: https://www.linkedin.com/in/jack-tiebie-62869221b/ </br>
+YouTube: https://www.youtube.com/channel/UCiVkz0i3iXvrZMKx3fqmblQ  </br>
 Discord: JackTiebie#9672
+Instagram: https://www.instagram.com/jacktiebie/
+Codepen: https://codepen.io/jacktiebie
+Dribbble: https://dribbble.com/jacktiebie 
+Github: https://github.com/jacktiebie
