@@ -13,8 +13,8 @@ Add later   </br>
 <b>Made by Jack Tiebie</b>  </br>
 LinkedIn: https://www.linkedin.com/in/jack-tiebie-62869221b/ </br>
 YouTube: https://www.youtube.com/channel/UCiVkz0i3iXvrZMKx3fqmblQ  </br>
-Discord: JackTiebie#9672
-Instagram: https://www.instagram.com/jacktiebie/
-Codepen: https://codepen.io/jacktiebie
-Dribbble: https://dribbble.com/jacktiebie 
-Github: https://github.com/jacktiebie
+Discord: JackTiebie#9672  </br>
+Instagram: https://www.instagram.com/jacktiebie/ </br>
+Codepen: https://codepen.io/jacktiebie </br>
+Dribbble: https://dribbble.com/jacktiebie  </br>
+Github: https://github.com/jacktiebie </br>
