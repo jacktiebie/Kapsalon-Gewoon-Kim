@@ -7,10 +7,10 @@ If you use this I would love to see what you made with my code so be sure to sha
 This is the English version if you are searching for the Dutch version please visit my GitHub profile and choose  </br>
 the repository: Kapsalon-Gewoon-Kim-NL  </br>  
 
-Design:  </br>
+<b>Design:</b>  </br>
 Add later   </br>
 
-Made by Jack Tiebie  </br>
+<b>Made by Jack Tiebie<?>  </br>
 Linkedin: https://www.linkedin.com/in/jack-tiebie-62869221b/ </br>
 Youtube: https://www.youtube.com/channel/UCiVkz0i3iXvrZMKx3fqmblQ  </br>
 Discord: JackTiebie#9672
