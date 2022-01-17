@@ -21,3 +21,9 @@ Codepen: https://codepen.io/jacktiebie </br>
 Dribbble: https://dribbble.com/jacktiebie  </br>
 Github: https://github.com/jacktiebie </br>
 Figma: https://www.figma.com/@jacktiebie
+
+<b>Skills:</b>
+HTML
+CSS
+FIGMA DESIGN
+DEPLOY SITE
