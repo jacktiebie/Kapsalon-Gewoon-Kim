@@ -10,7 +10,7 @@ If you use this I would love to see what you made with my code so be sure to sha
 This has dutch text if you want an english version please contact me </br>
 
 <b>Design:</b>  </br>
-Add later   </br>
+https://www.figma.com/community/file/1064887185833894749   </br>
 
 <b>Made by Jack Tiebie</b>  </br>
 LinkedIn: https://www.linkedin.com/in/jack-tiebie-62869221b/ </br>
