@@ -22,7 +22,7 @@ Dribbble: https://dribbble.com/jacktiebie  </br>
 Github: https://github.com/jacktiebie </br>
 Figma: https://www.figma.com/@jacktiebie
 
-<b>Skills:</b>
+<b>Skills:</b> </br>
 HTML </br>
 CSS </br>
 FIGMA DESIGN </br>
