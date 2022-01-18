@@ -6,6 +6,7 @@ https://gifted-gates-48524e.netlify.app/
 Barber one-page website made with: HTML and CSS. </br>
 You can use it however you want.   </br>
 If you use this I would love to see what you made with my code so be sure to share your project.  </br>
+This site is not responsive. </br>
 
 This has dutch text if you want an english version please contact me </br>
 
